@@ -1,4 +1,4 @@
-# WINDOW TRY DTREE
+# WINDOW [TRY DTREE]
 
     L I C E N S E
     Version 2.0, xx February 2021
